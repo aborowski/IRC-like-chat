@@ -1,7 +1,7 @@
 # IRCChat
 ## Authors
-* Radosław Paszkowski
-* Andrzej Borowski
+* Server by Radosław Paszkowski
+* Client by Andrzej Borowski
 
 ## Server
 ### Setup
